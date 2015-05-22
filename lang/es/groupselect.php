@@ -1,0 +1,34 @@
+<?php
+
+$string['action'] = 'Acción';
+$string['cannotselectclosed'] = 'No podrá ser miembro de un grupo nunca más.';
+$string['cannotselectmaxed'] = 'No puede unirse al grupo {$a} - número máximo de miembros alcanzado.';
+$string['cannotselectnocap'] = 'No está autorizado para seleccionar un grupo.'; 
+$string['cannotselectnoenrol'] = 'Es necesario estar matriculado en el curso para seleccionar un grupo.'; 
+$string['cannotunselectclosed'] = 'No podrá abandonar el grupo nunca más';
+$string['fromallgroups'] = 'Todos los grupos';
+$string['groupselect:select'] = 'Permitir apuntarse a un grupo';
+$string['groupselect:unselect'] = 'Permitir abandonar un grupo';
+$string['incorrectpassword'] = 'Contraseña incorrecta';
+$string['managegroups'] = 'Administrar grupos';
+$string['maxlimitreached'] = 'Número máximo de miembros alcanzado';
+$string['maxmembers'] = 'Número máximo de miembros por grupo';
+$string['membercount'] = 'Plazas';
+$string['membershidden'] = 'Lista de miembros no disponible';
+$string['memberslist'] = 'Miembros';
+$string['modulename'] = 'Auto-selección de grupo';
+$string['modulenameplural'] = 'Auto-selección de grupos';
+$string['modulename_help'] = 'El módulo Auto-seleción de grupo permite a los estudiantes del curso unirse a un grupo.';
+$string['nogroups'] = 'No hay grupos disponibles para seleccionar.';
+$string['notavailableanymore'] = 'La selección de grupos no está disponible (desde el {$a}).';
+$string['notavailableyet'] = 'La selección de grupos estará disponible el {$a}.';
+$string['password'] = 'Requiere contraseña';
+$string['pluginadministration'] = 'Administración del módulo';
+$string['pluginname'] = 'Auto-selección de grupo';
+$string['selectconfirm'] = '¿Realmente quiere apuntarse al grupo <em>{$a}</em>?';
+$string['unselectconfirm'] = '¿Realmente quiere abandonar el grupo <em>{$a}</em>?';
+$string['unselect'] = 'Abandonar el grupo {$a}';
+$string['select'] = ' Apuntarse al grupo {$a}';
+$string['targetgrouping'] = 'Selecionar grupo desde el agrupamiento';
+$string['timeavailable'] = 'Permitir apuntarse desde';
+$string['timedue'] = 'Permitir apuntarse hasta';
